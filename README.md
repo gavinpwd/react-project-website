@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# A Simple Website using Create React App
+### by Gavin Pili
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+**You can view the project here: https://gavinpwd.github.io/react-project-website/
 
-In the project directory, you can run:
+## Backstory
 
-### `npm start`
+I've started my learning module on React through Codecademy and have completed some exercies.  I wanted to test my knowledge so I searched for YouTube videos for a follow-along coding project.  After I've set up terminal and VSCode, this video helped me with this project: React Website Tutorial - Beginner React JS Project Fully Responsive || Link: https://www.youtube.com/watch?v=I2UBjN5ER4s
+This is atwo-hour tuorial however I skipped the topics that I haven't learned from Codecademy.  This tutorial was super helpful and I have learned a few tricks on VSCode too.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## What I have learned:
+1. This tutorial tested my CSS knowledge.
+2. I've learned that I actually liked coding in React as it is organised and the syntax seems easy to understand compared to pure JavaScript.
+3. I have learned how to create three basic pages, and this would be a great starting point to add more content and to manipulate the layout.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## What's next for me:
+1. I want to add components like Photo Gallery, Photo Grids, forms and maybe some cool animations.
+2. I would break my Codecademy learning in short blocks with Youtube tuorial like these to reinforce the lessons.
+3. Practice practice practice.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Screenshots**
 
-### `npm run build`
+Home Page -- image credit: https://unsplash.com/photos/V4MBq8kue3U
+![Home Page](home-page.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+About Page -- image credit: https://unsplash.com/photos/Mma3aVAH0F0
+![About Page](about-page.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+Contact Page -- image credit: https://unsplash.com/photos/C6eovoS7gXo
+![Contact Page](contact-page.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Home Page Mobile Responsive View-- image credit: https://unsplash.com/photos/V4MBq8kue3U
+![Home Page Mobile](home-page-mobile.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
