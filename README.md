@@ -7,8 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Backstory
 
-I've started my learning module on React through Codecademy and have completed some exercies.  I wanted to test my knowledge so I searched for YouTube videos for a follow-along coding project.  After I've set up terminal and VSCode, this video helped me with this project: React Website Tutorial - Beginner React JS Project Fully Responsive || Link: https://www.youtube.com/watch?v=I2UBjN5ER4s
-This is atwo-hour tuorial however I skipped the topics that I haven't learned from Codecademy.  This tutorial was super helpful and I have learned a few tricks on VSCode too.
+I've started my learning module on React through Codecademy and have completed some exercises.  I wanted to test my knowledge so I searched for YouTube videos for a follow-along coding project.  After I've set up terminal, installed node.js and some extensions on VSCode, this video helped me with this project: React Website Tutorial - Beginner React JS Project Fully Responsive || Link: https://www.youtube.com/watch?v=I2UBjN5ER4s  It was a two-hour tutorial however I skipped the topics that I haven't learned from Codecademy but spent more than two hours anyway.  This tutorial was super helpful and I have learned a few tricks on VSCode too.
+
+**The idea behind the website was inspired by my travels as guided by gastronomy -- to find and experience the world's delicious desserts.**
 
 ## What I have learned:
 1. This tutorial tested my CSS knowledge.
@@ -17,7 +18,7 @@ This is atwo-hour tuorial however I skipped the topics that I haven't learned fr
 
 ## What's next for me:
 1. I want to add components like Photo Gallery, Photo Grids, forms and maybe some cool animations.
-2. I would break my Codecademy learning in short blocks with Youtube tuorial like these to reinforce the lessons.
+2. I would break my Codecademy learning in short blocks with Youtube tuorials like this to reinforce the lessons.
 3. Practice practice practice.
 
 
